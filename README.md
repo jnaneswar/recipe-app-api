@@ -12,6 +12,6 @@
 /api/recipe/ingredients  
 /api/recipe/recipes  
 /api/recipe/recipe/<id>/  
-/api/recipe/recipe/<id>/upload-image  
+  
   
 ```
